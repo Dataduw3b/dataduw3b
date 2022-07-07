@@ -29,5 +29,4 @@
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dataduw3b&show_icons=true&locale=en&layout=compact" alt="dataduw3b" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dataduw3b&show_icons=true&locale=en" alt="dataduw3b" /></p>
-  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dataduw3b&label=Profile%20views&color=0e75b6&style=flat" alt="dataduw3b" /> </p>
+ 
