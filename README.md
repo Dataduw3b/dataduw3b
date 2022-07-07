@@ -7,8 +7,7 @@
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;coffee+addict;vuejs+for+life">
 
-    ```
-const Data = {
+    ```const Data = {
     description: "A young developper and cybersecurity student",
     lang: ["Python", "C#", "Html", "Css", "Perl", "C", "Js", "C++"], // Most used 
     apps: ["openresty", "php-fpm", "mariadb"],
@@ -21,7 +20,8 @@ const Data = {
         "Discord.gg/bagarre", // Only man can join this discord 
         "Discord.gg/ratz" // Best Discord Community
     ]
-}
+}```
+
 
 
 <h3 align="center">Actual Discord project :</h3>
