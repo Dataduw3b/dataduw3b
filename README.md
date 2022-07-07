@@ -6,8 +6,8 @@
 
 
 
-<h3 align="left">Discord server:</h3>
-<p align="left">
+<h1 align="center">Discord project :</h1>
+<p align="center">
 <a href="https://discord.gg/ratz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ratz" height="30" width="40" /></a>
 </p>
 
@@ -29,6 +29,4 @@
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dataduw3b&show_icons=true&locale=en&layout=compact" alt="dataduw3b" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dataduw3b&show_icons=true&locale=en" alt="dataduw3b" /></p>
-  
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dataduw3b" alt="dataduw3b" /></a> </p>
- 
+
