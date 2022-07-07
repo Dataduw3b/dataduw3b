@@ -61,7 +61,7 @@ const Data = {
   
   
 <h1 align="center">Others 👨‍💻:</h1>
-  
+<div float="center"> 
 
 <p>&nbsp;<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=dataduw3b&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="dataduw3b" /></p>
 <p><img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=dataduw3b&theme=dark" alt="dataduw3b" /></p>
