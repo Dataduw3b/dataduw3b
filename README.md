@@ -1,4 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dataduw3b&label=Profile%20views&color=0e75b6&style=flat" alt="dataduw3b" /> </p>
+ <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;coffee+addict;vuejs+for+life">
 
 <h1 align="center">Hi , I'm DATA</h1>
 
