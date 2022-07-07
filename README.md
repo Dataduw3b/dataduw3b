@@ -48,11 +48,10 @@ const Data = {
   
   <h1 align="center">Discord 🔊:</h1>
   <div float="center">
-  <a href="https://discord.com/users/597382254804729866">
-    <p align="left" "width="400"> <img src="https://lanyard-profile-readme.vercel.app/api/597382254804729866"></p>
-<a href="https://discord.com/users/572270452140015626">
-    <p align="right" width="400"> <img src="https://lanyard-profile-readme.vercel.app/api/572270452140015626"></p>
-</a>
+    <p align="left" "width="400"> <a href="https://discord.com/users/597382254804729866"> <img src="https://lanyard-profile-readme.vercel.app/api/597382254804729866"></p>
+<p href="https://discord.com/users/572270452140015626">
+    <p align="right" width="400"> <a href="https://discord.com/users/597382254804729866"> <img src="https://lanyard-profile-readme.vercel.app/api/572270452140015626"></p>
+
   
   
   
