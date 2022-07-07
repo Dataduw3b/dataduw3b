@@ -7,7 +7,7 @@
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;coffee+addict;vuejs+for+life">
 
-    ```javascript
+    ```
 const Data = {
     description: "A young developper and cybersecurity student",
     lang: ["Python", "C#", "Html", "Css", "Perl", "C", "Js", "C++"], // Most used 
