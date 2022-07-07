@@ -1,11 +1,26 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dataduw3b&label=Profile%20views&color=0e75b6&style=flat" alt="dataduw3b" /> </p>
 
 
-<h1 align="center">Hi , I'm DATA</h1>
+<h1 align="center">Wellcome to my profile !</h1>
 
 <h3 align="center">I am a passionate developer of French origin, I am still learning a lot but I already have a very good base.</h3>
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;coffee+addict;vuejs+for+life">
+
+const Data = {
+    description: "A young developper and cybersecurity student",
+    lang: ["Python", "C#", "Html", "Css", "Perl", "C", "Js", "C++"], // Most used 
+    apps: ["openresty", "php-fpm", "mariadb"],
+    tasks: [
+        "apt install discordpurger",
+        "apt get discord-token"
+    ],
+    projects: [
+        "discord.gg/ratpi", // Friendly team
+        "Discord.gg/bagarre", // Only man can join this discord 
+        "Discord.gg/ratz" // Best Discord Community
+    ]
+}
 
 
 <h3 align="center">Actual Discord project :</h3>
