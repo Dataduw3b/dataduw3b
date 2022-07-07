@@ -49,16 +49,13 @@ const Data = {
   <h1 align="center">Discord 🔊:</h1>
   <div float="center">
     <p align="left" "width="400"> <a href="https://discord.com/users/597382254804729866"> <img src="https://lanyard-profile-readme.vercel.app/api/597382254804729866"></p>
-<p href="https://discord.com/users/572270452140015626">
-    <p align="right" width="400"> <a href="https://discord.com/users/597382254804729866"> <img src="https://lanyard-profile-readme.vercel.app/api/572270452140015626"></p>
+    <p align="right" width="400"> <a href="https://discord.com/users/572270452140015626"> <img src="https://lanyard-profile-readme.vercel.app/api/572270452140015626"></p>
 
   
   
   
   
-  
-  
-  
+
 <h1 align="center">Others 👨‍💻:</h1>
 <div float="center">
     <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=dataduw3b&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="dataduw3b">
