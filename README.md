@@ -51,8 +51,6 @@ const Data = {
   
   <a href="https://discord.com/users/597382254804729866">
     <p align="left"><img src="https://lanyard-profile-readme.vercel.app/api/597382254804729866"></p>
-</a> 
-
 <a href="https://discord.com/users/572270452140015626">
     <p align="right"><img src="https://lanyard-profile-readme.vercel.app/api/572270452140015626"></p>
 </a>
