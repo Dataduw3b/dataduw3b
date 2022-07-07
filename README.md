@@ -1,8 +1,7 @@
-<h1 align="center">Hi , I'm DATA</h1>
-<h3 align="center">I am a passionate developer of French origin, I am still learning a lot but I already have a very good base.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dataduw3b&label=Profile%20views&color=0e75b6&style=flat" alt="dataduw3b" /> </p>
 
+<h1 align="center">Hi , I'm DATA</h1>
+<h3 align="center">I am a passionate developer of French origin, I am still learning a lot but I already have a very good base.</h3>
 
 
 
