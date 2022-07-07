@@ -1,12 +1,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dataduw3b&label=Profile%20views&color=0e75b6&style=flat" alt="dataduw3b" /> </p>
- <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;coffee+addict;vuejs+for+life">
+
 
 <h1 align="center">Hi , I'm DATA</h1>
 
 <h3 align="center">I am a passionate developer of French origin, I am still learning a lot but I already have a very good base.</h3>
 
+<img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;coffee+addict;vuejs+for+life">
 
-<h3 align="center">Discord project :</h3>
+
+<h3 align="center">Actual Discord project :</h3>
 <p align="center">
 <a href="https://discord.gg/ratz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ratz" height="30" width="40" /></a>
 </p>
