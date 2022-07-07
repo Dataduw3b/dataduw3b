@@ -5,7 +5,7 @@
 
 <h3 align="center">I am a passionate developer of French origin, I am still learning a lot but I already have a very good base.</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;coffee+addict;vuejs+for+life">
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;coffee+addict;vuejs+for+life">
 
 
 <h3 align="center">Actual Discord project :</h3>
