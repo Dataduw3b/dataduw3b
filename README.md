@@ -1,11 +1,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dataduw3b&label=Profile%20views&color=0e75b6&style=flat" alt="dataduw3b" /> </p>
 
 <h1 align="center">Hi , I'm DATA</h1>
+
 <h3 align="center">I am a passionate developer of French origin, I am still learning a lot but I already have a very good base.</h3>
 
+<a href="https://discord.gg/ratz" target="blank"><img align="center" src="https://camo.githubusercontent.com/7e2ff88d542895840014b089419fa6499714f30610bd91df3334f229a13cee58/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f6475726174696f6e3d3230303026636f6c6f723d4542443431422663656e7465723d74727565267643656e7465723d74727565266c696e65733d646576656c6f7065722b66756c6c737461636b3b636f666665652b6164646963743b7675656a732b666f722b6c696665" alt="" height="40" width="40" /></a>
+</p>
 
 
-<h1 align="center">Discord project :</h1>
+<h3 align="center">Discord project :</h3>
 <p align="center">
 <a href="https://discord.gg/ratz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ratz" height="30" width="40" /></a>
 </p>
