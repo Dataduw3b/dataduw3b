@@ -18,16 +18,16 @@ const Data = {
         "apt get discord-token"
     ],
     projects: [
-        "discord.gg/ratpi", // Friendly team
-        "Discord.gg/bagarre", // Only man can join this discord 
-        "Discord.gg/ratz" // Best Discord Community
+        "discord.gg/", // Friendly team
+        "Discord.gg/", // Only man can join this discord 
+        "Discord.gg/" // Best Discord Community
     ]
 }
 ```
 
 <h3 align="center">Actual Discord project :</h3>
 <p align="center">
-<a href="https://discord.gg/ratz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ratz" height="30" width="40" /></a>
+<a href="https://discord.gg/ratz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="No Project ATM" height="30" width="40" /></a>
 </p>
 
 <h1 align="center">Languages & Tools 🛠:</h1>
