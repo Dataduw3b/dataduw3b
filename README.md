@@ -27,7 +27,7 @@ const Fredo = {
 
 <h3 align="center">Actual Discord project :</h3>
 <p align="center">
-<a href="https://discord.gg/ratz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="No Project ATM" height="30" width="40" /></a>
+<a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="No Project ATM" height="30" width="40" /></a>
 </p>
 
 <h1 align="center">Languages & Tools 🛠:</h1>
@@ -43,16 +43,6 @@ const Fredo = {
 <h3 align="center">Backend :</h3>
 <p align="center"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  
-  
-  
-  <h1 align="center">Discord 🔊:</h1>
-  <div float="center">
-    <p align="left" "width="400"> <a href="https://discord.com/users/597382254804729866"> <img src="https://lanyard-profile-readme.vercel.app/api/597382254804729866"></p>
-    <p align="right" width="400"> <a href="https://discord.com/users/572270452140015626"> <img src="https://lanyard-profile-readme.vercel.app/api/572270452140015626"></p>
-
-  
-  
   
   
 
