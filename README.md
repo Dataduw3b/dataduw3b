@@ -9,7 +9,7 @@
 
  
  ```javascript
-const Fredo = {
+const Vpss = {
     description: "A young developper and cybersecurity student",
     lang: ["Python", "C#", "Html", "Css", "Perl", "C", "Js", "C++"], // Most used 
     apps: ["openresty", "php-fpm", "mariadb"],
